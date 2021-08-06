@@ -1,6 +1,6 @@
 # AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
 
-> [[Paper]](http://47.103.30.151/research/PartialConvDepthLossVST.pdf) [[PyTorch Implementation]](https://github.com/Huage001/AdaAttN) [Paddle Implementation]
+> [Paper] [[PyTorch Implementation](https://github.com/Huage001/AdaAttN)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
 
 ## Overview
 
@@ -29,6 +29,20 @@ ICCV 2021
   ```
 
 * Inference: 
+
+  * Make a directory for checkpoints if there is not:
+
+    ```shell
+    mkdir checkpoints
+    ```
+
+  * Download pretrained model from [Google Drive](https://drive.google.com/file/d/1XvpD1eI4JeCBIaW5uwMT6ojF_qlzM_lo/view?usp=sharing), move it to checkpoints directory, and unzip:
+
+    ```shell
+    mv [Download Directory]/AdaAttN_model.zip checkpoints/
+    unzip checkpoints/AdaAttN_model.zip
+    rm checkpoints/AdaAttN_model.zip
+    ```
 
   * Configure content_path and style_path in test_adaattn.sh firstly, indicating paths to folders of testing content images and testing style images respectively.
 
