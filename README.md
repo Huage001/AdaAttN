@@ -76,6 +76,19 @@ ICCV 2021
   
   * You may feel free to try other training options written in train_adaattn.sh. 
 
+## Citation
+
+* If you find ideas or codes useful for your research, please cite:
+
+  ```
+  @inproceedings{liu2021adaattn,
+    title={AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer},
+    author={Liu, Songhua and Lin, Tianwei and He Dongliang and Li, Fu and Wang Meiling and Li, Xin and Sun, Zhengxing and Li, Qian and Ding, Errui},
+    booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+    year={2021}
+  }
+  ```
+
 ## Acknowledgments
 
 * This implementation is developed based on the code framework of **[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)** by Junyan Zhu *et al.*
