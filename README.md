@@ -56,9 +56,11 @@ ICCV 2021
 
 * Train:
 
+  * Download 'vgg_normalised.pth' from [here](https://drive.google.com/file/d/1BinnwM5AmIcVubr16tPTqxMjUCE8iu5M/view?usp=sharing).
+
   * Download [COCO dataset](http://images.cocodataset.org/zips/train2014.zip) and [WikiArt dataset](http://web.fsktm.um.edu.my/~cschan/source/ICIP2017/wikiart.zip) and then extract them.
 
-  * Configure content_path and style_path in train_adaattn.sh, indicating paths to folders of training content images and training style images respectively.
+  * Configure content_path, style_path, and image_encoder_path in train_adaattn.sh, indicating paths to folders of training content images, training style images, and 'vgg_normalised.pth' respectively.
   
   * Before training, start *visdom* server:
 
