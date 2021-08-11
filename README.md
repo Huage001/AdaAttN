@@ -4,7 +4,7 @@
 
 # Latest Update
 
-**Please note that the code and model of this repo will be deleted at 23:59 (+08), 11 Aug, 2021!** Due to some reasons concerning with high level policy of our orgnization, we have to make such a difficult decision. Thank you for your understand.
+**Please note that the code and model of this repo will be deleted at 09:00 (+08), 12 Aug, 2021!** Due to some reasons concerning with high level policy of our orgnization, we have to make such a difficult decision. Thank you for your understand.
 
 ***
 
