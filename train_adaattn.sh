@@ -7,7 +7,7 @@ python train.py \
 --no_dropout \
 --load_size 512 \
 --crop_size 256 \
---image_encoder_path /other/vgg_normalised.pth \
+--image_encoder_path [path to vgg_normalised.pth] \
 --gpu_ids 0 \
 --batch_size 8 \
 --n_epochs 2 \
