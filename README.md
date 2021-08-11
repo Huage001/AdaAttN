@@ -1,6 +1,6 @@
 # AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
 
-> [[Paper](https://arxiv.org/abs/2108.03647)] [PaddlePaddle Implementation](https://github.com/wzmsltw/AdaAttN)
+> [[Paper](https://arxiv.org/abs/2108.03647)] [[PaddlePaddle Implementation](https://github.com/wzmsltw/AdaAttN)]
 
 ## Overview
 
