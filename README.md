@@ -2,6 +2,12 @@
 
 > [[Paper](https://arxiv.org/abs/2108.03647)] [[PyTorch Implementation](https://github.com/Huage001/AdaAttN)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
 
+# Latest Update
+
+**Please note that the code and model of this repo will be deleted at 23:59 (+08), 11 Aug, 2021!** Due to some reasons concerning with high level policy of our orgnization, we have to make such a terrible decision. Thank you for your understand. I believe you can find code from somewhere else. You can also contact the authors by email to request the code.
+
+***
+
 ## Overview
 
 This repository contains the official PyTorch implementation of paper:
