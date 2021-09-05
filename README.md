@@ -1,6 +1,6 @@
 # AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
 
-> [Paper] [[PyTorch Implementation](https://github.com/Huage001/AdaAttN)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
+> [[Paper](https://arxiv.org/abs/2108.03647)] [[PyTorch Implementation](https://github.com/Huage001/AdaAttN)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
 
 ## Overview
 
