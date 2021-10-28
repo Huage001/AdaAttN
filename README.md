@@ -2,6 +2,7 @@
 
 > [[Paper](https://arxiv.org/abs/2108.03647)] [[PyTorch Implementation](https://github.com/Huage001/AdaAttN)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
 
+<a href="https://replicate.ai/huage001/adaattn"><img src="https://img.shields.io/static/v1?label=Replicate&message=Demo and Docker Image&color=blue"></a>
 ## Overview
 
 This repository contains the **officially unofficial** PyTorch **re-**implementation of paper:
