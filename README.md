@@ -15,6 +15,10 @@ ICCV 2021
 
 ![](picture/picture.png)
 
+## Updates
+* [2022-12-07] Upload script of user control. Please see *user_specify_demo.py*
+* [2022-12-07] Upload inference code of video style transfer. Please see *inference_frame.py*. Please download checkpoints from [here](https://drive.google.com/file/d/1ZrFPrbSR56WXL2l62Jh7qjmuaWugJtvL/view?usp=sharing) and extract the package to the main directory of this repo before running.
+
 ## Prerequisites
 * Linux or macOS
 * Python 3
